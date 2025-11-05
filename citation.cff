@@ -4,6 +4,7 @@ authors:
   - family-names: "Bernardo"
     given-names: "João"
 title: "Requisitos do jogo Ribeirão Noir: O Roubo da Estátua de São Sebastião"
+abstract: "Este documento detalha os requisitos funcionais e não funcionais para o jogo de RPG 'Ribeirão Noir: O Roubo da Estátua de São Sebastião', ambientado na cidade de Ribeirão Preto, Brasil. O jogo combina elementos de mistério, investigação e narrativa interativa, permitindo aos jogadores explorar a cidade enquanto desvendam o enigma por trás do roubo da estátua."
 version: 1.0.0
 date-released: 2025-11-05
-url: "https://github.com/Jbnado/Requisitos-Ribeirao-Noir-TCC"
+repository-code: "https://github.com/Jbnado/Requisitos-Ribeirao-Noir-TCC"
