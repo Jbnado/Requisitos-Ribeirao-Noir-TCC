@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se usar este software, por favor cite-o como abaixo."
+authors:
+  - family-names: "Bernardo"
+    given-names: "João"
+title: "Requisitos do jogo Ribeirão Noir: O Roubo da Estátua de São Sebastião"
+version: 1.0.0
+date-released: 2025-11-05
+url: "https://github.com/Jbnado/Requisitos-Ribeirao-Noir-TCC"
